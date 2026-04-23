@@ -5,7 +5,7 @@
 **Notebook file:** `notebook.ipynb`
 
 ## Product Link / Demo
-- **GitHub repository link:** 
+- **GitHub repository link:** https://github.com/yangxiaoyang06/acc102-streaming-platform-analysis/tree/main
 - **1–3 minute demo video link:** *add your demo video link here before submission*
 
 The course briefing specifically notes that Track 2 should include a README and a **1–3 minute demo video**, and that the product link should be easy for the marker to find. fileciteturn7file2L17-L20 fileciteturn7file2L37-L40
