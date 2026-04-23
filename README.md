@@ -5,7 +5,7 @@
 **Notebook file:** `notebook.ipynb`
 
 ## Product Link / Demo
-- **GitHub repository link:** *add your repo link here before submission*
+- **GitHub repository link:** 
 - **1–3 minute demo video link:** *add your demo video link here before submission*
 
 The course briefing specifically notes that Track 2 should include a README and a **1–3 minute demo video**, and that the product link should be easy for the marker to find. fileciteturn7file2L17-L20 fileciteturn7file2L37-L40
