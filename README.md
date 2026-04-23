@@ -2,7 +2,7 @@
 
 **Track:** Track 2 – GitHub Data Analysis Project  
 **Module:** ACC102 Mini Assignment  
-**Notebook file:** `final_notebook_track2_revised.ipynb`
+**Notebook file:** `notebook.ipynb`
 
 ## Product Link / Demo
 - **GitHub repository link:** *add your repo link here before submission*
